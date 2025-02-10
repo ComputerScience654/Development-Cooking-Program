@@ -1,5 +1,3 @@
-# Computer-Science-Learning-Website-Project
-
 ## ชื่อโครงการ
 **การพัฒนาโปรแกรมการสอนทำอาหารโดยใช้ Python**  
 *(Development of a Python-Based Cooking Tutorial Program)*
